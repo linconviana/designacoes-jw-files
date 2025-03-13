@@ -23,6 +23,7 @@
 		"leitoraBiblia" : "Denilson Magalhaes"
 	},
 	"melhorMinisterio" : {
+		"id": 1,
         "content" :[
             {
                 "id": 1,
@@ -60,5 +61,37 @@
                 "ajudante" : ""
             }
         ]
+    },
+	"vidaCrista" : {
+        "id": 1,
+        "canticoMeio": "Cântico 159",
+        "horarioCanticoMeio": "20:20",
+        "content" :[
+            {
+                "id": 1,
+                "horarioParte" : "20:22",
+                "tituloParte" : "7. Relatorio anual de serviço (10 min.)",
+                "orador" : "Fernando Marcos"
+            },
+            {
+                "id": 2,
+                "horarioParte" : "20:32",
+                "tituloParte" : "8. Necessidades locais  (5 min.)",
+                "orador" : "Samuel Calazans"
+            },
+            {
+                "id": 3,
+                "horarioParte" : "20:37",
+                "tituloParte" : "9. Você pode ser pioneiro (5 min.)",
+                "orador" : "Leonardo Rocha Junior"
+            }
+        ],
+        "horarioEstudoLivro" : "20:37",
+        "estudoLivroDirigente" : "Leonardo Rocha",
+        "estudoLivroLeitor" : "Andre Carvalho",
+        "horarioComentariosFinais" : "21:07",
+        "horarioCanticoFinal" : "21:10",
+        "canticoFinal" : "Cântico 37",
+        "oracaoFinal" : "Fernando Marcos"
     }
 }
