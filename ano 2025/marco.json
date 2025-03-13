@@ -1,97 +1,196 @@
-{
-    "id": 1,
-    "congregacao" : "Itagaçaba",
-    "data": "12/02/2025",
-    "bibliaCapitulo" : "Salmos 147-150",
-    "canticoInicial" : "Cântico 100",
-    "horarioInicio" : "19:30",  
-    "horarioComentarioInicio" : "19:35",
-    "presidente" : "Fernando Marcos",
-    "oracaoInicial" : "André Carvalho",
-    "indicador": "Lincon Viana",
-    "zoomAudioVideo" : "Cladinei Belizário",
-    "microfoneTribuna" : "Manoel Santos",
-    "microfoneVolante" : "João Bosco",
-	"tesouros" : {
+[	
+	{
 		"id": 1,
-		"horarioParte1" : "19:36",
-		"tituloParte1" : "1. Louvem o nosso Deus é Jeová! (10 min.)",
-		"discursoOrador1" : "Samuel Calazans",
-		"horarioJoiasEspirituais" : "19:46",
-		"joiasEspirituaisOrador2" : "Leonardo Rocha",
-		"horarioLeituraBiblia" : "19:56",
-		"leitoraBiblia" : "Denilson Magalhaes"
+		"congregacao" : "Itagaçaba",
+		"data": "12/02/2025",
+		"bibliaCapitulo" : "Salmos 147-150",
+		"canticoInicial" : "Cântico 100",
+		"horarioInicio" : "19:30",  
+		"horarioComentarioInicio" : "19:35",
+		"presidente" : "Fernando Marcos",
+		"oracaoInicial" : "André Carvalho",
+		"indicador": "Lincon Viana",
+		"zoomAudioVideo" : "Cladinei Belizário",
+		"microfoneTribuna" : "Manoel Santos",
+		"microfoneVolante" : "João Bosco",
+		"tesouros" : {
+			"id": 1,
+			"horarioParte1" : "19:36",
+			"tituloParte1" : "1. Louvem o nosso Deus é Jeová! (10 min.)",
+			"discursoOrador1" : "Samuel Calazans",
+			"horarioJoiasEspirituais" : "19:46",
+			"joiasEspirituaisOrador2" : "Leonardo Rocha",
+			"horarioLeituraBiblia" : "19:56",
+			"leitoraBiblia" : "Denilson Magalhaes"
+		},
+		"melhorMinisterio" : {
+			"id": 1,
+			"content" :[
+				{
+					"id": 1,
+					"tituloParte" : "4. Iniciando conversas (4 min.)",
+					"horarioParte" : "20:00",
+					"estudante" : "Sonia Bosco",
+					"ajudante" : "Marisa Avila"
+				},
+				{
+					"id": 2,
+					"tituloParte" : "4. Iniciando conversas (4 min.)",
+					"horarioParte" : "20:00",
+					"estudante" : "Sonia Bosco",
+					"ajudante" : "Marisa Avila"
+				},
+				{
+					"id": 3,
+					"tituloParte" : "5. Testemunho informal (4 min.)",
+					"horarioParte" : "20:04",
+					"estudante" : "Iasmin Santos",
+					"ajudante" : "Priscila Palma"
+				},
+				{
+					"id": 4,
+					"tituloParte" : "6. Cultivando interesse (4 min.)",
+					"horarioParte" : "20:08",
+					"estudante" : "Estela Calazans",
+					"ajudante" : "Elaine Rocha"
+				},
+				{
+					"id": 5,
+					"tituloParte" : "7. Discurso (4 min.)",
+					"horarioParte" : "20:12",
+					"estudante" : "Lincon Viana",
+					"ajudante" : ""
+				}
+			]
+		},
+		"vidaCrista" : {
+			"id": 1,
+			"canticoMeio": "Cântico 159",
+			"horarioCanticoMeio": "20:20",
+			"content" :[
+				{
+					"id": 1,
+					"horarioParte" : "20:22",
+					"tituloParte" : "7. Relatorio anual de serviço (10 min.)",
+					"orador" : "Fernando Marcos"
+				},
+				{
+					"id": 2,
+					"horarioParte" : "20:32",
+					"tituloParte" : "8. Necessidades locais  (5 min.)",
+					"orador" : "Samuel Calazans"
+				},
+				{
+					"id": 3,
+					"horarioParte" : "20:37",
+					"tituloParte" : "9. Você pode ser pioneiro (5 min.)",
+					"orador" : "Leonardo Rocha Junior"
+				}
+			],
+			"horarioEstudoLivro" : "20:37",
+			"estudoLivroDirigente" : "Leonardo Rocha",
+			"estudoLivroLeitor" : "Andre Carvalho",
+			"horarioComentariosFinais" : "21:07",
+			"horarioCanticoFinal" : "21:10",
+			"canticoFinal" : "Cântico 37",
+			"oracaoFinal" : "Fernando Marcos"
+		}
 	},
-	"melhorMinisterio" : {
+	{
 		"id": 1,
-        "content" :[
-            {
-                "id": 1,
-                "tituloParte" : "4. Iniciando conversas (4 min.)",
-                "horarioParte" : "20:00",
-                "estudante" : "Sonia Bosco",
-                "ajudante" : "Marisa Avila"
-            },
-            {
-                "id": 2,
-                "tituloParte" : "4. Iniciando conversas (4 min.)",
-                "horarioParte" : "20:00",
-                "estudante" : "Sonia Bosco",
-                "ajudante" : "Marisa Avila"
-            },
-            {
-                "id": 3,
-                "tituloParte" : "5. Testemunho informal (4 min.)",
-                "horarioParte" : "20:04",
-                "estudante" : "Iasmin Santos",
-                "ajudante" : "Priscila Palma"
-            },
-            {
-                "id": 4,
-                "tituloParte" : "6. Cultivando interesse (4 min.)",
-                "horarioParte" : "20:08",
-                "estudante" : "Estela Calazans",
-                "ajudante" : "Elaine Rocha"
-            },
-            {
-                "id": 5,
-                "tituloParte" : "7. Discurso (4 min.)",
-                "horarioParte" : "20:12",
-                "estudante" : "Lincon Viana",
-                "ajudante" : ""
-            }
-        ]
-    },
-	"vidaCrista" : {
-        "id": 1,
-        "canticoMeio": "Cântico 159",
-        "horarioCanticoMeio": "20:20",
-        "content" :[
-            {
-                "id": 1,
-                "horarioParte" : "20:22",
-                "tituloParte" : "7. Relatorio anual de serviço (10 min.)",
-                "orador" : "Fernando Marcos"
-            },
-            {
-                "id": 2,
-                "horarioParte" : "20:32",
-                "tituloParte" : "8. Necessidades locais  (5 min.)",
-                "orador" : "Samuel Calazans"
-            },
-            {
-                "id": 3,
-                "horarioParte" : "20:37",
-                "tituloParte" : "9. Você pode ser pioneiro (5 min.)",
-                "orador" : "Leonardo Rocha Junior"
-            }
-        ],
-        "horarioEstudoLivro" : "20:37",
-        "estudoLivroDirigente" : "Leonardo Rocha",
-        "estudoLivroLeitor" : "Andre Carvalho",
-        "horarioComentariosFinais" : "21:07",
-        "horarioCanticoFinal" : "21:10",
-        "canticoFinal" : "Cântico 37",
-        "oracaoFinal" : "Fernando Marcos"
-    }
-}
+		"congregacao" : "Itagaçaba",
+		"data": "12/02/2025",
+		"bibliaCapitulo" : "Salmos 147-150",
+		"canticoInicial" : "Cântico 100",
+		"horarioInicio" : "19:30",  
+		"horarioComentarioInicio" : "19:35",
+		"presidente" : "Fernando Marcos",
+		"oracaoInicial" : "André Carvalho",
+		"indicador": "Lincon Viana",
+		"zoomAudioVideo" : "Cladinei Belizário",
+		"microfoneTribuna" : "Manoel Santos",
+		"microfoneVolante" : "João Bosco",
+		"tesouros" : {
+			"id": 1,
+			"horarioParte1" : "19:36",
+			"tituloParte1" : "1. Louvem o nosso Deus é Jeová! (10 min.)",
+			"discursoOrador1" : "Samuel Calazans",
+			"horarioJoiasEspirituais" : "19:46",
+			"joiasEspirituaisOrador2" : "Leonardo Rocha",
+			"horarioLeituraBiblia" : "19:56",
+			"leitoraBiblia" : "Denilson Magalhaes"
+		},
+		"melhorMinisterio" : {
+			"id": 1,
+			"content" :[
+				{
+					"id": 1,
+					"tituloParte" : "4. Iniciando conversas (4 min.)",
+					"horarioParte" : "20:00",
+					"estudante" : "Sonia Bosco",
+					"ajudante" : "Marisa Avila"
+				},
+				{
+					"id": 2,
+					"tituloParte" : "4. Iniciando conversas (4 min.)",
+					"horarioParte" : "20:00",
+					"estudante" : "Sonia Bosco",
+					"ajudante" : "Marisa Avila"
+				},
+				{
+					"id": 3,
+					"tituloParte" : "5. Testemunho informal (4 min.)",
+					"horarioParte" : "20:04",
+					"estudante" : "Iasmin Santos",
+					"ajudante" : "Priscila Palma"
+				},
+				{
+					"id": 4,
+					"tituloParte" : "6. Cultivando interesse (4 min.)",
+					"horarioParte" : "20:08",
+					"estudante" : "Estela Calazans",
+					"ajudante" : "Elaine Rocha"
+				},
+				{
+					"id": 5,
+					"tituloParte" : "7. Discurso (4 min.)",
+					"horarioParte" : "20:12",
+					"estudante" : "Lincon Viana",
+					"ajudante" : ""
+				}
+			]
+		},
+		"vidaCrista" : {
+			"id": 1,
+			"canticoMeio": "Cântico 159",
+			"horarioCanticoMeio": "20:20",
+			"content" :[
+				{
+					"id": 1,
+					"horarioParte" : "20:22",
+					"tituloParte" : "7. Relatorio anual de serviço (10 min.)",
+					"orador" : "Fernando Marcos"
+				},
+				{
+					"id": 2,
+					"horarioParte" : "20:32",
+					"tituloParte" : "8. Necessidades locais  (5 min.)",
+					"orador" : "Samuel Calazans"
+				},
+				{
+					"id": 3,
+					"horarioParte" : "20:37",
+					"tituloParte" : "9. Você pode ser pioneiro (5 min.)",
+					"orador" : "Leonardo Rocha Junior"
+				}
+			],
+			"horarioEstudoLivro" : "20:37",
+			"estudoLivroDirigente" : "Leonardo Rocha",
+			"estudoLivroLeitor" : "Andre Carvalho",
+			"horarioComentariosFinais" : "21:07",
+			"horarioCanticoFinal" : "21:10",
+			"canticoFinal" : "Cântico 37",
+			"oracaoFinal" : "Fernando Marcos"
+		}
+	}
+]
