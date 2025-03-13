@@ -14,12 +14,12 @@
     "microfoneVolante" : "João Bosco",
 	"tesouros" : {
 		"id": 1,
-		"horarioParte1": "19:36",
+		"horarioParte1" : "19:36",
 		"tituloParte1" : "1. Louvem o nosso Deus é Jeová! (10 min.)",
-		"discursoOrador1": "Samuel Calazans",
-		"horarioJoiasEspirituais": "19:46",
-		"joiasEspirituaisOrador2": "Leonardo Rocha",
-		"horarioLeituraBiblia": "19:56",
+		"discursoOrador1" : "Samuel Calazans",
+		"horarioJoiasEspirituais" : "19:46",
+		"joiasEspirituaisOrador2" : "Leonardo Rocha",
+		"horarioLeituraBiblia" : "19:56",
 		"leitoraBiblia" : "Denilson Magalhaes"
 	}	
 }
