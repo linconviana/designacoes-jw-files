@@ -21,5 +21,44 @@
 		"joiasEspirituaisOrador2" : "Leonardo Rocha",
 		"horarioLeituraBiblia" : "19:56",
 		"leitoraBiblia" : "Denilson Magalhaes"
-	}	
+	},
+	"melhorMinisterio" : {
+        "content" :[
+            {
+                "id": 1,
+                "tituloParte" : "4. Iniciando conversas (4 min.)",
+                "horarioParte" : "20:00",
+                "estudante" : "Sonia Bosco",
+                "ajudante" : "Marisa Avila"
+            },
+            {
+                "id": 2,
+                "tituloParte" : "4. Iniciando conversas (4 min.)",
+                "horarioParte" : "20:00",
+                "estudante" : "Sonia Bosco",
+                "ajudante" : "Marisa Avila"
+            },
+            {
+                "id": 3,
+                "tituloParte" : "5. Testemunho informal (4 min.)",
+                "horarioParte" : "20:04",
+                "estudante" : "Iasmin Santos",
+                "ajudante" : "Priscila Palma"
+            },
+            {
+                "id": 4,
+                "tituloParte" : "6. Cultivando interesse (4 min.)",
+                "horarioParte" : "20:08",
+                "estudante" : "Estela Calazans",
+                "ajudante" : "Elaine Rocha"
+            },
+            {
+                "id": 5,
+                "tituloParte" : "7. Discurso (4 min.)",
+                "horarioParte" : "20:12",
+                "estudante" : "Lincon Viana",
+                "ajudante" : ""
+            }
+        ]
+    }
 }
