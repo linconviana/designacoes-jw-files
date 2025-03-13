@@ -1,99 +1,99 @@
 [	
 	{
-		"id": null,
-		"congregacao" : null
+		"id": 1,
+		"congregacao" : ""
 		"data": "12/02/2025",
 		"bibliaCapitulo" : "Salmos 147-150",
 		"canticoInicial" : "Cântico 100",
-		"horarioInicio" : null,  
-		"horarioComentarioInicio" : null,
-		"presidente" : null,
-		"oracaoInicial" : null,
-		"indicador": null,
-		"zoomAudioVideo" : null,
-		"microfoneTribuna" : null,
-		"microfoneVolante" : null,
+		"horarioInicio" : "",  
+		"horarioComentarioInicio" : "",
+		"presidente" : "",
+		"oracaoInicial" : "",
+		"indicador": "",
+		"zoomAudioVideo" : "",
+		"microfoneTribuna" : "",
+		"microfoneVolante" : "",
 		"tesouros" : {
-			"id": null,
-			"horarioParte1" : null,
+			"id": 1,
+			"horarioParte1" : "",
 			"tituloParte1" : "1. Louvem o nosso Deus é Jeová! (10 min.)",
-			"discursoOrador1" : null,
-			"horarioJoiasEspirituais" : null,
-			"joiasEspirituaisOrador2" : null,
-			"horarioLeituraBiblia" : null,
-			"leitoraBiblia" : null
+			"discursoOrador1" : "",
+			"horarioJoiasEspirituais" : "",
+			"joiasEspirituaisOrador2" : "",
+			"horarioLeituraBiblia" : "",
+			"leitoraBiblia" : ""
 		},
 		"melhorMinisterio" : {
-			"id": null,
+			"id": 1,
 			"content" :[
 				{
-					"id": null,
+					"id": 1,
 					"tituloParte" : "4. Iniciando conversas (4 min.)",
-					"horarioParte" : null,
-					"estudante" : null,
-					"ajudante" : null
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				},
 				{
-					"id": null,
+					"id": 1,
 					"tituloParte" : "4. Iniciando conversas (4 min.)",
-					"horarioParte" : null,
-					"estudante" : null,
-					"ajudante" : null
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				},
 				{
-					"id": null,
+					"id": 1,
 					"tituloParte" : "5. Testemunho informal (4 min.)",
-					"horarioParte" : null,
-					"estudante" : null,
-					"ajudante" : null
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				},
 				{
-					"id": null,
+					"id": 1,
 					"tituloParte" : "6. Cultivando interesse (4 min.)",
-					"horarioParte" : null,
-					"estudante" : null,
-					"ajudante" : null
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				},
 				{
-					"id": null,
+					"id": 1,
 					"tituloParte" : "7. Discurso (4 min.)",
-					"horarioParte" : null,
-					"estudante" : null,
-					"ajudante" : null
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				}
 			]
 		},
 		"vidaCrista" : {
-			"id": null,
+			"id": 1,
 			"canticoMeio": "Cântico 159",
-			"horarioCanticoMeio": null,
+			"horarioCanticoMeio": "",
 			"content" :[
 				{
-					"id": null,
-					"horarioParte" : null,
+					"id": 1,
+					"horarioParte" : "",
 					"tituloParte" : "7. Relatorio anual de serviço (10 min.)",
-					"orador" : null
+					"orador" : ""
 				},
 				{
-					"id": null,
-					"horarioParte" : null,
+					"id": 1,
+					"horarioParte" : "",
 					"tituloParte" : "8. Necessidades locais  (5 min.)",
-					"orador" : null
+					"orador" : ""
 				},
 				{
-					"id": null,
-					"horarioParte" : null,
+					"id": 1,
+					"horarioParte" : "",
 					"tituloParte" : "9. Você pode ser pioneiro (5 min.)",
-					"orador" : null
+					"orador" : ""
 				}
 			],
-			"horarioEstudoLivro" : null,
-			"estudoLivroDirigente" : null,
-			"estudoLivroLeitor" : null,
-			"horarioComentariosFinais" : null,
-			"horarioCanticoFinal" : null,
+			"horarioEstudoLivro" : "",
+			"estudoLivroDirigente" : "",
+			"estudoLivroLeitor" : "",
+			"horarioComentariosFinais" : "",
+			"horarioCanticoFinal" : "",
 			"canticoFinal" : "Cântico 37",
-			"oracaoFinal" : null
+			"oracaoFinal" : ""
 		}
 	}
 ]
