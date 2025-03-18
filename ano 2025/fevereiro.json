@@ -47,6 +47,31 @@
 					"ajudante" : ""
 				}
 			]
+		},
+		"vidaCrista" : {
+
+			"canticoMeio": "Cântico 59",
+			"horarioCanticoMeio": "",
+			"content" :[
+				{
+					"horarioParte" : "",
+					"tituloParte" : "7. Jeová quer que você seja feliz (10 min.)",
+					"orador" : ""
+				},
+				{
+					"horarioParte" : "",
+					"tituloParte" : "8. Necessidades locais  (5 min.)",
+					"orador" : ""
+				}
+			],
+			"horarioEstudoLivro" : "",
+			"estudoDeLivro" : "9. Estudo Bíblico de Congregação (30 min.)",
+			"estudoLivroDirigente" : "",
+			"estudoLivroLeitor" : "",
+			"horarioComentariosFinais" : "",
+			"horarioCanticoFinal" : "",
+			"canticoFinal" : "Cântico 85",
+			"oracaoFinal" : ""
 		}
 	}
 ]
