@@ -24,6 +24,29 @@
 			"horarioLeituraBiblia" : "",
 			"leituraDaBiblia" : "3. Leitura da Bíblia (4 min.)",
 			"leitorBiblia" : ""
-		}
+		},
+		"melhorMinisterio" : {
+
+			"content" :[
+				{
+					"tituloParte" : "4. Iniciando conversas (4 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				},
+				{
+					"tituloParte" : "5. Cultivando o interesse (4 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				},
+				{
+					"tituloParte" : "6. Discurso (4 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				}
+			]
+		},
 	}
 ]
