@@ -1,196 +1,289 @@
 [	
-	{
-		"id": 1,
-		"congregacao" : "Itagaçaba",
-		"data": "12/02/2025",
-		"bibliaCapitulo" : "Salmos 147-150",
-		"canticoInicial" : "Cântico 100",
-		"horarioInicio" : "19:30",  
-		"horarioComentarioInicio" : "19:35",
-		"presidente" : "Fernando Marcos",
-		"oracaoInicial" : "André Carvalho",
-		"indicador": "Lincon Viana",
-		"zoomAudioVideo" : "Cladinei Belizário",
-		"microfoneTribuna" : "Manoel Santos",
-		"microfoneVolante" : "João Bosco",
+	{	
+		"congregacao" : "",
+		"data": "",
+		"bibliaCapitulo" : "Salmos 144-146",
+		"canticoInicial" : "Cântico 145",
+		"horarioInicio" : "",  
+		"horarioComentarioInicio" : "",
+		"presidente" : "",
+		"oracaoInicial" : "",
+		"indicador": "",
+		"zoomAudioVideo" : "",
+		"microfoneTribuna" : "",
+		"microfoneVolante" : "",
 		"tesouros" : {
-			"id": 1,
-			"horarioParte1" : "19:36",
-			"tituloParte1" : "1. Louvem o nosso Deus é Jeová! (10 min.)",
-			"discursoOrador1" : "Samuel Calazans",
-			"horarioJoiasEspirituais" : "19:46",
-			"joiasEspirituaisOrador2" : "Leonardo Rocha",
-			"horarioLeituraBiblia" : "19:56",
-			"leitoraBiblia" : "Denilson Magalhaes"
+			
+			"horarioParte1" : "",
+			"tituloParte1" : "1. Feliz o povo cujo Deus é Jeová! (10 min.)",
+			"discursoOrador1" : "",
+			"horarioJoiasEspirituais" : "",
+			"joiasEspirituais" : "2. Joias Espirituais (10 min.)",
+			"joiasEspirituaisOrador2" : "",
+			"horarioLeituraBiblia" : "",
+			"leituraDaBiblia" : "3. Leitura da Bíblia (4 min.)",
+			"leitorBiblia" : ""
 		},
 		"melhorMinisterio" : {
-			"id": 1,
+
 			"content" :[
 				{
-					"id": 1,
 					"tituloParte" : "4. Iniciando conversas (4 min.)",
-					"horarioParte" : "20:00",
-					"estudante" : "Sonia Bosco",
-					"ajudante" : "Marisa Avila"
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				},
 				{
-					"id": 2,
-					"tituloParte" : "4. Iniciando conversas (4 min.)",
-					"horarioParte" : "20:00",
-					"estudante" : "Sonia Bosco",
-					"ajudante" : "Marisa Avila"
+					"tituloParte" : "5. Cultivando o interesse (4 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				},
 				{
-					"id": 3,
-					"tituloParte" : "5. Testemunho informal (4 min.)",
-					"horarioParte" : "20:04",
-					"estudante" : "Iasmin Santos",
-					"ajudante" : "Priscila Palma"
-				},
-				{
-					"id": 4,
-					"tituloParte" : "6. Cultivando interesse (4 min.)",
-					"horarioParte" : "20:08",
-					"estudante" : "Estela Calazans",
-					"ajudante" : "Elaine Rocha"
-				},
-				{
-					"id": 5,
-					"tituloParte" : "7. Discurso (4 min.)",
-					"horarioParte" : "20:12",
-					"estudante" : "Lincon Viana",
+					"tituloParte" : "6. Discurso (4 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
 					"ajudante" : ""
 				}
 			]
 		},
 		"vidaCrista" : {
-			"id": 1,
-			"canticoMeio": "Cântico 159",
-			"horarioCanticoMeio": "20:20",
+
+			"canticoMeio": "Cântico 59",
+			"horarioCanticoMeio": "",
 			"content" :[
 				{
-					"id": 1,
-					"horarioParte" : "20:22",
-					"tituloParte" : "7. Relatorio anual de serviço (10 min.)",
-					"orador" : "Fernando Marcos"
+					"horarioParte" : "",
+					"tituloParte" : "7. Jeová quer que você seja feliz (10 min.)",
+					"orador" : ""
 				},
 				{
-					"id": 2,
-					"horarioParte" : "20:32",
+					"horarioParte" : "",
 					"tituloParte" : "8. Necessidades locais  (5 min.)",
-					"orador" : "Samuel Calazans"
-				},
-				{
-					"id": 3,
-					"horarioParte" : "20:37",
-					"tituloParte" : "9. Você pode ser pioneiro (5 min.)",
-					"orador" : "Leonardo Rocha Junior"
+					"orador" : ""
 				}
 			],
-			"horarioEstudoLivro" : "20:37",
-			"estudoLivroDirigente" : "Leonardo Rocha",
-			"estudoLivroLeitor" : "Andre Carvalho",
-			"horarioComentariosFinais" : "21:07",
-			"horarioCanticoFinal" : "21:10",
-			"canticoFinal" : "Cântico 37",
-			"oracaoFinal" : "Fernando Marcos"
+			"horarioEstudoLivro" : "",
+			"estudoDeLivro" : "9. Estudo Bíblico de Congregação (30 min.)",
+			"estudoLivroDirigente" : "",
+			"estudoLivroLeitor" : "",
+			"horarioComentariosFinais" : "",
+			"horarioCanticoFinal" : "",
+			"canticoFinal" : "Cântico 85",
+			"oracaoFinal" : ""
 		}
 	},
-	{
-		"id": 1,
-		"congregacao" : "Itagaçaba",
-		"data": "12/02/2025",
+	{		
+		"congregacao" : "",
+		"data": "",
 		"bibliaCapitulo" : "Salmos 147-150",
-		"canticoInicial" : "Cântico 100",
-		"horarioInicio" : "19:30",  
-		"horarioComentarioInicio" : "19:35",
-		"presidente" : "Fernando Marcos",
-		"oracaoInicial" : "André Carvalho",
-		"indicador": "Lincon Viana",
-		"zoomAudioVideo" : "Cladinei Belizário",
-		"microfoneTribuna" : "Manoel Santos",
-		"microfoneVolante" : "João Bosco",
+		"canticoInicial" : "Cântico 12",
+		"horarioInicio" : "",  
+		"horarioComentarioInicio" : "",
+		"presidente" : "",
+		"oracaoInicial" : "",
+		"indicador": "",
+		"zoomAudioVideo" : "",
+		"microfoneTribuna" : "",
+		"microfoneVolante" : "",
 		"tesouros" : {
-			"id": 1,
-			"horarioParte1" : "19:36",
-			"tituloParte1" : "1. Louvem o nosso Deus é Jeová! (10 min.)",
-			"discursoOrador1" : "Samuel Calazans",
-			"horarioJoiasEspirituais" : "19:46",
-			"joiasEspirituaisOrador2" : "Leonardo Rocha",
-			"horarioLeituraBiblia" : "19:56",
-			"leitoraBiblia" : "Denilson Magalhaes"
+			
+			"horarioParte1" : "",
+			"tituloParte1" : "1. Temos muitos motivos para louvar a Jah (10 min.)",
+			"discursoOrador1" : "",
+			"horarioJoiasEspirituais" : "",
+			"joiasEspirituais" : "2. Joias Espirituais (10 min.)",
+			"joiasEspirituaisOrador2" : "",
+			"horarioLeituraBiblia" : "",
+			"leituraDaBiblia" : "3. Leitura da Bíblia (4 min.)",
+			"leitorBiblia" : ""
 		},
 		"melhorMinisterio" : {
-			"id": 1,
+			
 			"content" :[
-				{
-					"id": 1,
-					"tituloParte" : "4. Iniciando conversas (4 min.)",
-					"horarioParte" : "20:00",
-					"estudante" : "Sonia Bosco",
-					"ajudante" : "Marisa Avila"
+				{				
+					"tituloParte" : "4. Iniciando conversas (3 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				},
 				{
-					"id": 2,
-					"tituloParte" : "4. Iniciando conversas (4 min.)",
-					"horarioParte" : "20:00",
-					"estudante" : "Sonia Bosco",
-					"ajudante" : "Marisa Avila"
+					"tituloParte" : "5. Iniciando conversas (4 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
 				},
 				{
-					"id": 3,
-					"tituloParte" : "5. Testemunho informal (4 min.)",
-					"horarioParte" : "20:04",
-					"estudante" : "Iasmin Santos",
-					"ajudante" : "Priscila Palma"
-				},
-				{
-					"id": 4,
-					"tituloParte" : "6. Cultivando interesse (4 min.)",
-					"horarioParte" : "20:08",
-					"estudante" : "Estela Calazans",
-					"ajudante" : "Elaine Rocha"
-				},
-				{
-					"id": 5,
-					"tituloParte" : "7. Discurso (4 min.)",
-					"horarioParte" : "20:12",
-					"estudante" : "Lincon Viana",
+					"tituloParte" : "6. Discurso (5 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
 					"ajudante" : ""
 				}
 			]
 		},
 		"vidaCrista" : {
-			"id": 1,
+			
 			"canticoMeio": "Cântico 159",
-			"horarioCanticoMeio": "20:20",
+			"horarioCanticoMeio": "",
 			"content" :[
-				{
-					"id": 1,
-					"horarioParte" : "20:22",
-					"tituloParte" : "7. Relatorio anual de serviço (10 min.)",
-					"orador" : "Fernando Marcos"
-				},
-				{
-					"id": 2,
-					"horarioParte" : "20:32",
-					"tituloParte" : "8. Necessidades locais  (5 min.)",
-					"orador" : "Samuel Calazans"
-				},
-				{
-					"id": 3,
-					"horarioParte" : "20:37",
-					"tituloParte" : "9. Você pode ser pioneiro (5 min.)",
-					"orador" : "Leonardo Rocha Junior"
+				{				
+					"horarioParte" : "",
+					"tituloParte" : "7. Relatorio anual de serviço (15 min.)",
+					"orador" : ""
 				}
 			],
-			"horarioEstudoLivro" : "20:37",
-			"estudoLivroDirigente" : "Leonardo Rocha",
-			"estudoLivroLeitor" : "Andre Carvalho",
-			"horarioComentariosFinais" : "21:07",
-			"horarioCanticoFinal" : "21:10",
+			"horarioEstudoLivro" : "",
+			"estudoDeLivro" : "8. Estudo Bíblico de Congregação (30 min.)",
+			"estudoLivroDirigente" : "",
+			"estudoLivroLeitor" : "",
+			"horarioComentariosFinais" : "",
+			"horarioCanticoFinal" : "",
 			"canticoFinal" : "Cântico 37",
-			"oracaoFinal" : "Fernando Marcos"
+			"oracaoFinal" : ""
+		}
+	},
+	{	
+		"congregacao" : "",
+		"data": "",
+		"bibliaCapitulo" : "Provérbios 1",
+		"canticoInicial" : "Cântico 88",
+		"horarioInicio" : "",  
+		"horarioComentarioInicio" : "",
+		"presidente" : "",
+		"oracaoInicial" : "",
+		"indicador": "",
+		"zoomAudioVideo" : "",
+		"microfoneTribuna" : "",
+		"microfoneVolante" : "",
+		"tesouros" : {
+			
+			"horarioParte1" : "",
+			"tituloParte1" : "1. Quem vocês vão escutar? (10 min.)",
+			"discursoOrador1" : "",
+			"horarioJoiasEspirituais" : "",
+			"joiasEspirituais" : "2. Joias Espirituais (10 min.)",
+			"joiasEspirituaisOrador2" : "",
+			"horarioLeituraBiblia" : "",
+			"leituraDaBiblia" : "3. Leitura da Bíblia (4 min.)",
+			"leitorBiblia" : ""
+		},
+		"melhorMinisterio" : {
+			
+			"content" :[
+				{				
+					"tituloParte" : "4. Iniciando conversas (2 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				},
+				{
+					"tituloParte" : "5. Iniciando conversas (2 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				},
+				{
+					"tituloParte" : "6. Cultivando interesse (2 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				},
+				{
+					"tituloParte" : "7. Fazendo discípulos (5 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				}
+			]
+		},
+		"vidaCrista" : {
+			
+			"canticoMeio": "Cântico 89",
+			"horarioCanticoMeio": "",
+			"content" :[
+				{					
+					"horarioParte" : "",
+					"tituloParte" : "8. Necessidades locais  (15 min.)",
+					"orador" : ""
+				}
+			],
+			"horarioEstudoLivro" : "",
+			"estudoDeLivro" : "9. Estudo Bíblico de Congregação (30 min.)",
+			"estudoLivroDirigente" : "",
+			"estudoLivroLeitor" : "",
+			"horarioComentariosFinais" : "",
+			"horarioCanticoFinal" : "",
+			"canticoFinal" : "Cântico 80",
+			"oracaoFinal" : ""
+		}
+	},
+	{	
+		"congregacao" : "",
+		"data": "",
+		"bibliaCapitulo" : "Provérbios 2",
+		"canticoInicial" : "Cântico 35",
+		"horarioInicio" : "",  
+		"horarioComentarioInicio" : "",
+		"presidente" : "",
+		"oracaoInicial" : "",
+		"indicador": "",
+		"zoomAudioVideo" : "",
+		"microfoneTribuna" : "",
+		"microfoneVolante" : "",
+		"tesouros" : {
+			
+			"horarioParte1" : "",
+			"tituloParte1" : "1. Por que se dedicar ao seu estudo pessoal? (10 min.)",
+			"discursoOrador1" : "",
+			"horarioJoiasEspirituais" : "",
+			"joiasEspirituais" : "2. Joias Espirituais (10 min.)",
+			"joiasEspirituaisOrador2" : "",
+			"horarioLeituraBiblia" : "",
+			"leituraDaBiblia" : "3. Leitura da Bíblia (4 min.)",
+			"leitorBiblia" : ""
+		},
+		"melhorMinisterio" : {
+			
+			"content" :[
+				{				
+					"tituloParte" : "4. Iniciando conversas (4 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				},
+				{
+					"tituloParte" : "5. Cultivando interesse (3 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				},
+				{
+					"tituloParte" : "6. Discurso (5 min.)",
+					"horarioParte" : "",
+					"estudante" : "",
+					"ajudante" : ""
+				}
+			]
+		},
+		"vidaCrista" : {
+			
+			"canticoMeio": "Cântico 96",
+			"horarioCanticoMeio": "",
+			"content" :[
+				{					
+					"horarioParte" : "",
+					"tituloParte" : "7. Você é um caçador de tesouros? (15 min.)",
+					"orador" : ""
+				}
+			],
+			"horarioEstudoLivro" : "",
+			"estudoDeLivro" : "8. Estudo Bíblico de Congregação (30 min.)",
+			"estudoLivroDirigente" : "",
+			"estudoLivroLeitor" : "",
+			"horarioComentariosFinais" : "",
+			"horarioCanticoFinal" : "",
+			"canticoFinal" : "Cântico 102",
+			"oracaoFinal" : ""
 		}
 	}
 ]
