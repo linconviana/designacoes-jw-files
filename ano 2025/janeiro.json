@@ -1,5 +1,6 @@
 [	
 	{	
+		"id": 1,
 		"congregacao" : "",
 		"data": "",
 		"bibliaCapitulo" : "Salmos 144-146",
@@ -13,7 +14,7 @@
 		"microfoneTribuna" : "",
 		"microfoneVolante" : "",
 		"tesouros" : {
-			
+			"id": 1,
 			"horarioParte1" : "",
 			"tituloParte1" : "1. Feliz o povo cujo Deus é Jeová! (10 min.)",
 			"discursoOrador1" : "",
@@ -25,21 +26,24 @@
 			"leitorBiblia" : ""
 		},
 		"melhorMinisterio" : {
-
+			"id": 1,
 			"content" :[
 				{
+					"id": 1,
 					"tituloParte" : "4. Iniciando conversas (4 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 2,
 					"tituloParte" : "5. Cultivando o interesse (4 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 3,
 					"tituloParte" : "6. Discurso (4 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
@@ -48,16 +52,18 @@
 			]
 		},
 		"vidaCrista" : {
-
+			"id": 1,
 			"canticoMeio": "Cântico 59",
 			"horarioCanticoMeio": "",
 			"content" :[
 				{
+					"id": 1,
 					"horarioParte" : "",
 					"tituloParte" : "7. Jeová quer que você seja feliz (10 min.)",
 					"orador" : ""
 				},
 				{
+					"id": 2,
 					"horarioParte" : "",
 					"tituloParte" : "8. Necessidades locais  (5 min.)",
 					"orador" : ""
@@ -75,6 +81,7 @@
 		}
 	},
 	{		
+		"id": 1,
 		"congregacao" : "",
 		"data": "",
 		"bibliaCapitulo" : "Salmos 147-150",
@@ -88,7 +95,7 @@
 		"microfoneTribuna" : "",
 		"microfoneVolante" : "",
 		"tesouros" : {
-			
+			"id": 1,
 			"horarioParte1" : "",
 			"tituloParte1" : "1. Temos muitos motivos para louvar a Jah (10 min.)",
 			"discursoOrador1" : "",
@@ -100,21 +107,24 @@
 			"leitorBiblia" : ""
 		},
 		"melhorMinisterio" : {
-			
+			"id": 1,
 			"content" :[
-				{				
+				{		
+					"id": 1,
 					"tituloParte" : "4. Iniciando conversas (3 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 2,
 					"tituloParte" : "5. Iniciando conversas (4 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 3,
 					"tituloParte" : "6. Discurso (5 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
@@ -123,11 +133,12 @@
 			]
 		},
 		"vidaCrista" : {
-			
+			"id": 1,
 			"canticoMeio": "Cântico 159",
 			"horarioCanticoMeio": "",
 			"content" :[
-				{				
+				{	
+					"id": 1,
 					"horarioParte" : "",
 					"tituloParte" : "7. Relatorio anual de serviço (15 min.)",
 					"orador" : ""
@@ -145,6 +156,7 @@
 		}
 	},
 	{	
+		"id": 1,
 		"congregacao" : "",
 		"data": "",
 		"bibliaCapitulo" : "Provérbios 1",
@@ -158,7 +170,7 @@
 		"microfoneTribuna" : "",
 		"microfoneVolante" : "",
 		"tesouros" : {
-			
+			"id": 1,
 			"horarioParte1" : "",
 			"tituloParte1" : "1. Quem vocês vão escutar? (10 min.)",
 			"discursoOrador1" : "",
@@ -170,27 +182,31 @@
 			"leitorBiblia" : ""
 		},
 		"melhorMinisterio" : {
-			
+			"id": 1,
 			"content" :[
-				{				
+				{		
+					"id": 1,
 					"tituloParte" : "4. Iniciando conversas (2 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 2,
 					"tituloParte" : "5. Iniciando conversas (2 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 3,
 					"tituloParte" : "6. Cultivando interesse (2 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 4,
 					"tituloParte" : "7. Fazendo discípulos (5 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
@@ -199,11 +215,12 @@
 			]
 		},
 		"vidaCrista" : {
-			
+			"id": 1,
 			"canticoMeio": "Cântico 89",
 			"horarioCanticoMeio": "",
 			"content" :[
-				{					
+				{		
+					"id": 1,
 					"horarioParte" : "",
 					"tituloParte" : "8. Necessidades locais  (15 min.)",
 					"orador" : ""
@@ -221,6 +238,7 @@
 		}
 	},
 	{	
+		"id": 1,
 		"congregacao" : "",
 		"data": "",
 		"bibliaCapitulo" : "Provérbios 2",
@@ -234,7 +252,7 @@
 		"microfoneTribuna" : "",
 		"microfoneVolante" : "",
 		"tesouros" : {
-			
+			"id": 1,
 			"horarioParte1" : "",
 			"tituloParte1" : "1. Por que se dedicar ao seu estudo pessoal? (10 min.)",
 			"discursoOrador1" : "",
@@ -246,21 +264,24 @@
 			"leitorBiblia" : ""
 		},
 		"melhorMinisterio" : {
-			
+			"id": 1,
 			"content" :[
-				{				
+				{		
+					"id": 1,
 					"tituloParte" : "4. Iniciando conversas (4 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 2,
 					"tituloParte" : "5. Cultivando interesse (3 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
 					"ajudante" : ""
 				},
 				{
+					"id": 3,
 					"tituloParte" : "6. Discurso (5 min.)",
 					"horarioParte" : "",
 					"estudante" : "",
@@ -269,11 +290,12 @@
 			]
 		},
 		"vidaCrista" : {
-			
+			"id": 1,
 			"canticoMeio": "Cântico 96",
 			"horarioCanticoMeio": "",
 			"content" :[
-				{					
+				{		
+					"id": 1,
 					"horarioParte" : "",
 					"tituloParte" : "7. Você é um caçador de tesouros? (15 min.)",
 					"orador" : ""
